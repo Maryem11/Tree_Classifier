@@ -16,7 +16,7 @@ Predict the most suitable crop for a given location using key environmental para
 ## 🧪 Dataset
 
 - Source: Public agricultural dataset (collected via open-source platforms [🔗 View source](https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset)).
-- Includes 2,200+ observations across 22 crop types.
+- Includes 1,600+ observations across 22 crop types.
 
 ## 🔍 Key Steps
 
